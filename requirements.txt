@@ -1,0 +1,10 @@
+streamlit>=1.36
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+beautifulsoup4>=4.12
+requests>=2.32
+networkx>=3.3
+plotly>=5.22
+joblib>=1.4
+nltk>=3.9
