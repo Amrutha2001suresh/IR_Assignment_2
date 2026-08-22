@@ -1,0 +1,30 @@
+{
+  "document_count": 36,
+  "topics": [
+    "Information Retrieval",
+    "Artificial Intelligence",
+    "Healthcare Analytics",
+    "Agritech and Farming",
+    "Renewable Energy",
+    "Finance Intelligence"
+  ],
+  "sources": [
+    "Research Lab",
+    "Industry News",
+    "Knowledge Hub"
+  ],
+  "seeds": [
+    {
+      "seed_url": "file:///E:/BITS/Sem%202/IR/assignment%202/data/demo_site/research-lab/index.html",
+      "label": "research-lab"
+    },
+    {
+      "seed_url": "file:///E:/BITS/Sem%202/IR/assignment%202/data/demo_site/industry-news/index.html",
+      "label": "industry-news"
+    },
+    {
+      "seed_url": "file:///E:/BITS/Sem%202/IR/assignment%202/data/demo_site/knowledge-hub/index.html",
+      "label": "knowledge-hub"
+    }
+  ]
+}
